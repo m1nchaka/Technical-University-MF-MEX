@@ -7,7 +7,7 @@ int main() {
 
     printf("Vuvedete 6 chisla:\n");
     for ( i = 0; i < 6; ++i) {
-        printf("Enter number %d: ", i + 1);
+        printf("Vuvedi chislo %d: ", i + 1);
         scanf("%d", &numbers[i]);
     }
 

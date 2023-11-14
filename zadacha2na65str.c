@@ -1,19 +1,21 @@
 #include <stdio.h>
+//#include <stdlib.h>
 
 int main() {
 
     float numbers[10];
+    int i;
 
 
     printf("Vuvedete 10 realni chisla:\n");
-    for (int i = 0; i < 10; ++i) {
+    for (i = 0; i < 10; ++i) {
         printf("Enter number %d: ", i + 1);
         scanf("%f", &numbers[i]);
     }
 
 
     printf("\n Elementite na masivite sa:\n");
-    for (int i = 0; i < 10; ++i) {
+    for ( i = 0; i < 10; ++i) {
         printf("%.2f ", numbers[i]);
     }
     printf("\n");
@@ -25,7 +27,7 @@ int main() {
 
     int count = 0;
     printf("\n Elementite koito sa pogolemi ot %.2f sa:\n", givenNumber);
-    for (int i = 0; i < 10; ++i) {
+    for ( i = 0; i < 10; ++i) {
         if (numbers[i] > givenNumber) {
             printf("%.2f ", numbers[i]);
             count++;

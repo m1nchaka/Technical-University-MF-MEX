@@ -36,7 +36,7 @@ int main() {
     printf("\n");
 
 
-    printf("\n Chisloto koeto e pogolqmo ot %.2f e: %d\n", givenNumber, count);
+    printf("\n Chislata koito sa pogolemi ot %.2f sa: %d\n", givenNumber, count);
 
     return 0;
 }

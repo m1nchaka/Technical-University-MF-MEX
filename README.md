@@ -1,7 +1,8 @@
-# Technical-University-MF-MEX
+# Mashinostroitelen Fakultet
+## Mehatronika
 
-ZADACHITE SA PO IKT 
+Zadachite sa po IKT 
 
+Napisano e na C ezik
 
- MASHINOSTOITELNIQ FAKULTET - MEHATRONIKA
 

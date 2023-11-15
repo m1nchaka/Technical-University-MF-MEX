@@ -1,7 +1,7 @@
 # Technical-University-MF-MEX
 
-ZADACHITE SA PO IKT 
-```bash
+#ZADACHITE SA PO IKT 
+
+
  MASHINOSTOITELNIQ FAKULTET - MEHATRONIKA
-```bash
 

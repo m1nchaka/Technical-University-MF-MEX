@@ -1,7 +1,6 @@
 <h1 align="center">
 Mashinostroitelen Fakultet
 
-
 Mehatronika
 </h1>
 

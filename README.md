@@ -1,5 +1,5 @@
 <h1 align="center">
-# Mashinostroitelen Fakultet
+Mashinostroitelen Fakultet
 
 
 </h1>
